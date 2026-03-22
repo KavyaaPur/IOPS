@@ -1,0 +1,16 @@
+# Directories to IGNORE (The heavy stuff)
+node_modules/
+build/
+.dart_tool/
+.venv/
+venv/
+env/
+__pycache__/
+.idea/
+.vscode/
+
+# Files to IGNORE
+*.exe
+*.dll
+*.pyc
+.DS_Store
